@@ -1,0 +1,51 @@
+/*Reglas boxmodel*/
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 2rem;
+    padding: 0;
+}
+.caja300{
+    background-color: pink;
+    background-image:url(/image/pinkpanther.png);
+    background-size: 550px;
+    background-position: center;
+    background-repeat: no-repeat;
+    border:  3px violet solid;
+    margin: 10px;
+    padding: 10px 30px 10px 30px;
+    width: 600px;
+    height: 300px;
+}
+
+h3{
+    color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3{
+font-family: 'Rock Salt', cursive;
+}
+h1{
+    color: rgb(184, 146, 100);
+    font-family: 'Oleo Script Swash Caps', cursive;
+font-size: 7rem;
+}
+.caja2{
+    background-color: rgb(255, 242, 103);
+    background-image:url(/image/simpsons.png);
+    background-size: 250px;
+    background-position: center;
+    background-repeat: no-repeat;
+    border:  3px rgb(105, 186, 237) solid;
+    margin: 10px;
+    padding: 10px 30px 10px 30px;
+    width: 600px;
+    height: 300px;
+}
+
+h4{
+    font-family: 'Gloria Hallelujah', cursive;
+    color:darkorange;
+    font-size: 2rem;
+}
